@@ -1,0 +1,44 @@
+html {
+  font-family: "Fredoka One", sans-serif;
+
+  background-color: #b3fbff;
+}
+
+h1 {
+  color: #990073;
+  text-shadow: 1px 1px 1px #afc1d2;
+}
+
+p {
+  color: #c09;
+  text-shadow: 1px 1px 1px #afc1d2;
+}
+
+a {
+  border-color: #990073;
+  border-width: 2px;
+  border-style: solid;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 2px;
+  text-shadow: 1px 1px 1px #afc1d2;
+  color: #c09;
+}
+
+.btn {
+  color: #c09;
+}
+
+.btn-ghost {
+
+}
+
+.btn-ghost:hover {
+
+}
+
+.mega:hover {
+  background-color: #c09;
+
+}
+/* #b3fbff, #c9fcff, #d4fdff, #990073, #c09 */
